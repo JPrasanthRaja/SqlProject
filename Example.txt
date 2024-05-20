@@ -1,3 +1,0 @@
-this example of program basic method and querys
-
-varKey;
