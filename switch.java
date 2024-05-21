@@ -1,10 +1,10 @@
-public class Model(){
-  public static void main(String[] args){
-    int var = 5;
+// public class Model(){
+//   public static void main(String[] args){
+//     int var = 5;
 
-    switch(var){
-      case 1: 
-    }
-  }
+//     switch(var){
+//       case 1: 
+//     }
+//   }
   
-}
+// }
